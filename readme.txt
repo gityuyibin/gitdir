@@ -1,2 +1,2 @@
 Git is a version-control-system, free and opensource.
-Git is easy to learn and use.
+Git is free software distributed under the GPL. # folded easy to learn and use.
