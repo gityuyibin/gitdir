@@ -1,2 +1,5 @@
 License
 for git status test.
+for git checkout -- file
+...
+for rm
