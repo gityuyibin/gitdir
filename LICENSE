@@ -4,3 +4,4 @@ for git checkout -- file
 ...
 for rm
 for rm 2
+modify something on master branch.
