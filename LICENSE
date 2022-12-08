@@ -7,3 +7,4 @@ for rm 2
 modify something on master branch.
 
 test for git stash.
+for color.ui true
