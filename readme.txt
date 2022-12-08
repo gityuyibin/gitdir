@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git fourth sentence
 git fifth sentence
 for push test
+modify something on dev branch.
